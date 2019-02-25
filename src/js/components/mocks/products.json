@@ -1,0 +1,139 @@
+[
+	{
+		"id": 1,
+		"name": "iPhone 8",
+		"price": 99.99,
+		"oldPrice": 599.00,
+		"options": [
+			{
+				"id": 100,
+				"name": "Color",
+				"values": [
+					{
+						"id": 1000,
+						"name": "Silver",
+						"priceModifier": 0,
+						"photos": [
+							{"photo": "images/apple-iphone-8-silver.png"},
+							{"photo": "images/apple-iphone-8-silver-front.png"},
+							{"photo": "images/apple-iphone-8-silver-side.png"},
+							{"photo": "images/apple-iphone-8-silver-back.png"}
+						]
+					},
+					{
+						"id": 1001,
+						"name": "Space Gray",
+						"priceModifier": 0,
+						"photos": [
+							{"photo": "images/apple-iphone-8-space-grey.png"},
+							{"photo": "images/apple-iphone-8-space-grey-front.png"},
+							{"photo": "images/apple-iphone-8-space-grey-side.png"},
+							{"photo": "images/apple-iphone-8-space-grey-back.png"}
+						]
+					},
+					{
+						"id": 1002,
+						"name": "Gold",
+						"priceModifier": 0,
+						"photos": [
+							{"photo": "images/apple-iphone-8-gold.png"},
+							{"photo": "images/apple-iphone-8-gold-front.png"},
+							{"photo": "images/apple-iphone-8-gold-side.png"},
+							{"photo": "images/apple-iphone-8-gold-back.png"}
+						]
+					}
+				]
+			},
+			{
+				"id": 101,
+				"name": "Capacity",
+				"values": [
+					{
+						"id": 1100,
+						"name": "64 GB",
+						"priceModifier": 0
+					},
+					{
+						"id": 1101,
+						"name": "256 GB",
+						"priceModifier": 40.00
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": 2,
+		"name": "iPhone 8 Plus",
+		"price": 129.99,
+		"oldPrice": 699.00,
+		"options": [
+			{
+				"id": 100,
+				"name": "Color",
+				"values": [
+					{
+						"id": 1000,
+						"name": "Silver",
+						"priceModifier": 0,
+						"photos": [
+							{"photo": "images/apple-iphone-8-plus-silver.png"},
+							{"photo": "images/apple-iphone-8-plus-silver-front.png"},
+							{"photo": "images/apple-iphone-8-plus-silver-side.png"},
+							{"photo": "images/apple-iphone-8-plus-silver-back.png"}
+						]
+					},
+					{
+						"id": 1001,
+						"name": "Space Gray",
+						"priceModifier": 0,
+						"photos": [
+							{"photo": "images/apple-iphone-8-plus-space-grey.png"},
+							{"photo": "images/apple-iphone-8-plus-space-grey-front.png"},
+							{"photo": "images/apple-iphone-8-plus-sace-grey-side.png"},
+							{"photo": "images/apple-iphone-8-plus-sace-grey-back.png"}
+						]
+					},
+					{
+						"id": 1002,
+						"name": "Gold",
+						"priceModifier": 0,
+						"photos": [
+							{"photo": "images/apple-iphone-8-plus-gold.png"},
+							{"photo": "images/apple-iphone-8-plus-gold-front.png"},
+							{"photo": "images/apple-iphone-8-plus-gold-side.png"},
+							{"photo": "images/apple-iphone-8-plus-gold-back.png"}
+						]
+					},
+					{
+						"id": 1003,
+						"name": "Red",
+						"priceModifier": 10.00,
+						"photos": [
+							{"photo": "images/iphone8-plus-red-front.png"},
+							{"photo": "images/iphone8-plus-red-front-.png"},
+							{"photo": "images/iphone8-plus-red-side.png"},
+							{"photo": "images/iphone8-plus-red-back.png"}
+						]
+					}
+				]
+			},
+			{
+				"id": 101,
+				"name": "Capacity",
+				"values": [
+					{
+						"id": 1100,
+						"name": "64 GB",
+						"priceModifier": 0
+					},
+					{
+						"id": 1101,
+						"name": "256 GB",
+						"priceModifier": 40.00
+					}
+				]
+			}
+		]
+	}
+]
